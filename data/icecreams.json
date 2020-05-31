@@ -1,0 +1,23 @@
+ [
+  {
+    "name" : "pear",
+    "color" : "Green",
+    "rate" : 50,
+    "available" : true,
+    "thumb" : "content/img/pear.jpg"
+  },
+  {
+    "name" : "mango",
+    "color" : "orange",
+    "rate" : 100,
+    "available" : true,
+    "thumb" : "content/img/mango.jpg"
+  },
+  {
+    "name" : "strawberry",
+    "color" : "pink" ,
+    "rate" : 70,
+    "available" : false,
+    "thumb" : "content/img/strawberry.jpg"
+  }
+]
